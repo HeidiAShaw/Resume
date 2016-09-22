@@ -15,7 +15,7 @@ Major: Bioarchaeology
 Graduated: December 2009
 
 ##Professional Experience
-ENPLAN, Redding, California	April 2014—Current
+**Strong**ENPLAN, Redding, California	April 2014—Current
 Position: Cultural Resources Manager and Human Osteologist
 As the cultural resources manager, I am responsible for facilitating with clients; media and public outreach efforts; collaborating with federal, state, and municipal agencies; project budgeting, scheduling and reporting; and data management. I have experience managing teams of up to 15 people.  I have extensive experience in this position in directing laboratory processing and preparation of material for scientific analysis.  In addition to my responsibilities as the cultural resources manager, I am also the human osteologist; as such, I am responsible for the identification, analysis, and reporting of human remains discovered in archaeological contexts.  As part of my role, I investigate palaeopathological evidence of disease in human remains.  I am also responsible for the collection, analysis, and generation of GIS data and map products related to cultural resources.  I also designed and manage the geodatabase for cultural resources. This includes the application of various software and hardware, including ArcGIS and Trimble.  I have also had some experience with Python and SQL in this role.
 
